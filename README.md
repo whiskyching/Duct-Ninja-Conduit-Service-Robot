@@ -18,6 +18,7 @@ Duct Ninja is a Service robot used to place the conduits inside the duct, specif
 ---
 ![image](https://user-images.githubusercontent.com/65818525/131329606-d2ef423f-d81c-4b1e-9d37-7522fc818120.png)
 ---
+- She is 16 cm tall; the width is 16 cm and consists of two main parts: the upper body and the bottom body with four support wheels. Inside the bottom body are the power-driven parts; the upper body part mainly includes the circuit and the vision. The upper body has one degree of freedom. Because of limited space, the servo motor should be laid flat. Therefore we choose bevel gear to change the rotation direction to rotate the robot head. The Lower body has four auxiliary wheels. And in the middle, there is a power-driven wheel. There is a module cap on the robot's backside, which can be changed with a customed module to carry different things. An Ultrasonic Sensor will also sense the surface height to adjust the central wheel to better adapt to the surface. The Lower body has 2 degrees of freedom. Gear A from servo motor A will rotate against gear B to rotate the main wheel. The servo motor B is used to drive the linear axis to change the height.
 ![image](https://user-images.githubusercontent.com/65818525/131329497-3d46d15c-6898-4909-a8a9-2822eca57df0.png)
 ---
 ![image](https://user-images.githubusercontent.com/65818525/131329444-1f804f89-1e2a-4f3f-8827-58bab9892abe.png)
