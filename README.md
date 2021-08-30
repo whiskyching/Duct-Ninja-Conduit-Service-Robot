@@ -24,7 +24,8 @@ Duct Ninja is a Service robot used to place the conduits inside the duct, specif
 ![image](https://user-images.githubusercontent.com/65818525/131329444-1f804f89-1e2a-4f3f-8827-58bab9892abe.png)
 ---
 ![image](https://user-images.githubusercontent.com/65818525/131329644-e7c89c7a-df03-4828-bdcc-1bbaade162a3.png)
----
+## Control System & User Interface
+- Firefly in Grasshopper controls the systems. The OSB protocol is used to connect the mobile phone with the robot. A User interface on the mobile phone has been developed to control its motion. It is user-friendly, and it is easy to manipulate. There is an acceleration bar on the left, and you can use that with the forward/backward button. And the speed will show in different levels of the led amount; all the led light up means that it's on full speed running. And you can reset the Left-Right turn button on the right bottom by pressing the R button, and then it will reset the wheel back to the original orientation. For the Camera vision, you can change the bottom left slider to adjust the angle. The high led status is to show the distance level of the power wheel.
 ![image](https://user-images.githubusercontent.com/65818525/131329674-92e776f0-8db7-48d2-93b5-4dbf68f6c800.png)
 ---
 ![image](https://user-images.githubusercontent.com/65818525/131329696-d711ee35-3a97-4cc9-a4c6-4e6186ca1fb0.png)
