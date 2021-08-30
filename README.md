@@ -7,7 +7,6 @@ Duct Ninja is a Service robot used to place the conduits inside the duct, specif
 - Grasshopper 3D
 - Prusa 3D Print Slicer
 - Arduino
-- 
 
 ## Hardware Tool:
 - Arduino Uno x1
