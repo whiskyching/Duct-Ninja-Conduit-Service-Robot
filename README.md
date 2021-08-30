@@ -45,6 +45,10 @@ Duct Ninja is a Service robot used to place the conduits inside the duct, specif
 ---
 ![image](https://user-images.githubusercontent.com/65818525/131329696-d711ee35-3a97-4cc9-a4c6-4e6186ca1fb0.png)
 ---
+![VID-20210720-064235 (1)](https://user-images.githubusercontent.com/65818525/131339594-6f0fffbb-e90d-49aa-9743-1c7b976114b7.gif) ![VID-20210720-074418 (1)](https://user-images.githubusercontent.com/65818525/131339642-cb6bc5cb-0e0d-49e5-8db7-d2d30ce2710f.gif)
+
+
+---
 ![image](https://user-images.githubusercontent.com/65818525/131329738-1d0553f4-0ffb-4acf-98e5-f74b4ae81139.png)
 ---
 ![image](https://user-images.githubusercontent.com/65818525/131329762-9c029545-7dde-4549-8516-a1436042a337.png)
@@ -54,4 +58,5 @@ Duct Ninja is a Service robot used to place the conduits inside the duct, specif
 ![image](https://user-images.githubusercontent.com/65818525/131329808-65890247-b7d4-45b1-90bd-3d36e2c03c34.png)
 ---
 ![image](https://user-images.githubusercontent.com/65818525/131329826-af024ad0-3f24-44a8-8980-428262005f04.png)
+---
 
